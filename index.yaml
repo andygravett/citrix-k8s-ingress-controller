@@ -3,10 +3,10 @@ entries:
   citrix-k8s-cpx-ingress-controller:
   - apiVersion: v1
     appVersion: "1.0"
-    created: 2019-04-02T14:24:02.240763763+05:30
+    created: "2019-05-30T15:58:38.114615999+05:30"
     description: A Helm chart for Citrix ADC CPX with Citrix ingress Controller running
       as sidecar.
-    digest: bc3b86e583e62861d59c53fabc95a06cd6db20a57c6b186125c7582f73133c6e
+    digest: aa836fe2daa08effd7a32949aa350f3f96d7cc696dbdc68fc3d0c1ed79ec6010
     home: https://www.citrix.com
     icon: https://raw.githubusercontent.com/citrix/citrix-k8s-ingress-controller/gh-pages/icon.png
     maintainers:
@@ -23,9 +23,9 @@ entries:
   citrix-k8s-ingress-controller:
   - apiVersion: v1
     appVersion: "1.0"
-    created: 2019-04-02T14:24:02.241602754+05:30
+    created: "2019-05-30T15:58:38.115484308+05:30"
     description: A Helm chart for Citrix Ingress Controller configuring MPX/VPX
-    digest: 4c23e3764814b92de2397b285f5954802e295fd63a1977e491624e11f77e6363
+    digest: a0ac019413aabd6596bfc3d14660314e319a5355d4583be134fe80668c0508c5
     home: https://www.citrix.com
     icon: https://raw.githubusercontent.com/citrix/citrix-k8s-ingress-controller/gh-pages/icon.png
     maintainers:
@@ -39,4 +39,4 @@ entries:
     urls:
     - https://citrix.github.io/citrix-k8s-ingress-controller/citrix-k8s-ingress-controller-1.1.1.tgz
     version: 1.1.1
-generated: 2019-04-02T14:24:02.239700725+05:30
+generated: "2019-05-30T15:58:38.113630272+05:30"
