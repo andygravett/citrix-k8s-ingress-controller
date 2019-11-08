@@ -112,7 +112,7 @@ spec:
                 fieldPath: metadata.namespace
           args:
             - --ingress-classes
-              citrix
+              citrix-ingress
           imagePullPolicy: Always
 
 ---
